@@ -1,0 +1,1 @@
+Software written for analysing measurement comparisons, and comparing methods of analysis.
